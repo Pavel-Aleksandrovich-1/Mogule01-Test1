@@ -37,7 +37,7 @@ ul>li {
 	margin-right: 30px;
 }
 
-ul>li:last-child{
+ul>li:last-child {
 	margin-right: 0;
 }
 
@@ -75,9 +75,9 @@ h3 {
 	letter-spacing: 0.5px;
 }
 
-.link{
+.link {
 	background-color: rebeccapurple;
-	color:  white;
+	color: white;
 	padding: 8px 15px;
 	margin-left: 10px;
 }
