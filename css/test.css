@@ -3,10 +3,9 @@ body {
 	line-height: 1.5;
 }
 
-.section
-{
+.section {
 	background-color: lavender;
-	padding:  5px 20px ;
+	padding: 5px 20px;
 	margin-bottom: 20px;
 }
 
@@ -36,6 +35,10 @@ ul {
 
 ul>li {
 	margin-right: 30px;
+}
+
+ul>li:last-child{
+	margin-right: 0;
 }
 
 .box {
@@ -72,3 +75,9 @@ h3 {
 	letter-spacing: 0.5px;
 }
 
+.link{
+	background-color: rebeccapurple;
+	color:  white;
+	padding: 8px 15px;
+	margin-left: 10px;
+}
